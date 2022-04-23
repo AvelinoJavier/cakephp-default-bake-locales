@@ -1,6 +1,6 @@
 {
     "name": "avelinojavier/cakephp-misc-locales",
-    "description": "MiscLocales plugin for CakePHP",
+    "description": "Plugin that translates some texts that CakePHP automatically creates.",
     "type": "cakephp-plugin",
     "license": "MIT",
     "require": {
