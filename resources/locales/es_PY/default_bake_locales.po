@@ -28,9 +28,6 @@ msgstr "siguiente"
 msgid "last"
 msgstr "último"
 
-msgid "last"
-msgstr "último"
-
 msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
 msgstr "Página {{page}} de {{pages}}, mostrando {{current}} registro(s) de {{count}} en total"
 
