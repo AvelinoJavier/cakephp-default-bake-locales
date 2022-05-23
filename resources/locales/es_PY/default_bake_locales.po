@@ -42,3 +42,6 @@ msgstr "creado"
 
 msgid "Created"
 msgstr "Creado"
+
+msgid "The provided value is invalid"
+msgstr "El valor proveído es inválido"
